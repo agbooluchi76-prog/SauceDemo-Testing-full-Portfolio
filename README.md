@@ -53,11 +53,11 @@ SauceDemo-Testing-full-Portfolio/
 |---|---|---|---|
 | standard_user | 16 | 15 | 1 |
 | locked_out_user | 1 | 0 | 1 |
-| performance_glitch_user | 15 | 13 | 2 |
-| problem_user | 12 | 9 | 3 |
-| error_user | 13 | 8 | 5 |
-| visual_user | 21 | 14 | 7 |
-| **Total** | **78** | **59** | **19** |
+| performance_glitch_user | 17 | 15 | 2 |
+| problem_user | 14 | 11 | 3 |
+| error_user | 17 | 12 | 5 |
+| visual_user | 19 | 12 | 7 |
+| **Total** | **84** | **65** | **19** |
 
 ---
 
