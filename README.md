@@ -11,7 +11,7 @@
 
 This repository contains a complete manual testing suite for Sauce Demo — a demo e-commerce application built for QA practice. All six user account types were tested independently across login, inventory, cart, checkout, and navigation flows.
 
-**83 test cases executed. 19 bugs found across 5 user accounts.**
+**84 test cases executed. 19 bugs found across 6 user accounts.**
 
 ---
 
