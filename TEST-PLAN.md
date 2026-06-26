@@ -46,7 +46,7 @@ The following areas are covered in this test plan:
 
 | Username | Password | Expected Behavior |
 |---|---|---|
-| standard_user | secret_sauce | Normal happy path — all flows work |
+| standard_user | secret_sauce | Checkout flow - accepted special characters |
 | locked_out_user | secret_sauce | Login blocked; user is locked out |
 | problem_user | secret_sauce | Image mismatches; not all items add to cart |
 | performance_glitch_user | secret_sauce | Extreme login latency (20-30 seconds) |
